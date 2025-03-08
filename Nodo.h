@@ -9,7 +9,9 @@
 
 class Nodo {
 
-};
+  int p;
+
+}
 
 
 
